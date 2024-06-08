@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello! I'm Jerald
+## I'm a Computer Science Student in Mapua University
+
+# Programming Languages I know (ordered by skill)
+- PHP 
+- Python
+- JavaScript
+- R
+
+# Frameworks I know
+- Laravel
 
 <!--
 **Jeraldo0803/Jeraldo0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
