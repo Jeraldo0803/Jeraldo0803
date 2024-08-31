@@ -11,9 +11,7 @@
 ### Frameworks and Libraries I know
 - Laravel
 - TailwindCSS
-- AlpineJS
 - Bootstrap
-- jQuery
 
 <!--
 **Jeraldo0803/Jeraldo0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
